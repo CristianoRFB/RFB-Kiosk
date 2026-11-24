@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="256" viewBox="0 0 950 256" role="img" aria-label="Logotipo RFBKiosk">
+<title>Logotipo RFBKiosk</title>
+<g transform="translate(0 0)"><rect width="256" height="256" rx="54" fill="#10131A"/>
+<g fill="none" stroke="#FDFDFD" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"><rect x="67" y="51" width="122" height="134" rx="12"/><path d="M106 186V210M150 186V210M92 211H164"/><path stroke="#87C8F5" d="M101 96L125 116L149 91M105 147H151"/></g></g>
+<text x="302" y="126" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="800" letter-spacing="-2.5" fill="#10131A">RFBKiosk</text>
+<rect x="306" y="150" width="67" height="7" rx="3.5" fill="#87C8F5"/>
+<text x="306" y="194" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="500" fill="#505867">Autoatendimento</text>
+</svg>

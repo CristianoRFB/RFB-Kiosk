@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "project": "RFBKiosk",
+  "status": "NOT_CAPTURED",
+  "screenshots": [
+    {
+      "id": "S1",
+      "caption": "Cardápio touch-first",
+      "path": null,
+      "status": "NOT_CAPTURED",
+      "kind": "REAL_CAPTURE",
+      "commit_sha": null,
+      "viewport": null,
+      "environment": null,
+      "captured_at": null,
+      "privacy_checked": false
+    },
+    {
+      "id": "S2",
+      "caption": "Personalização de itens",
+      "path": null,
+      "status": "NOT_CAPTURED",
+      "kind": "REAL_CAPTURE",
+      "commit_sha": null,
+      "viewport": null,
+      "environment": null,
+      "captured_at": null,
+      "privacy_checked": false
+    },
+    {
+      "id": "S3",
+      "caption": "Revisão do carrinho",
+      "path": null,
+      "status": "NOT_CAPTURED",
+      "kind": "REAL_CAPTURE",
+      "commit_sha": null,
+      "viewport": null,
+      "environment": null,
+      "captured_at": null,
+      "privacy_checked": false
+    },
+    {
+      "id": "S4",
+      "caption": "Painel de preparo",
+      "path": null,
+      "status": "NOT_CAPTURED",
+      "kind": "REAL_CAPTURE",
+      "commit_sha": null,
+      "viewport": null,
+      "environment": null,
+      "captured_at": null,
+      "privacy_checked": false
+    }
+  ]
+}

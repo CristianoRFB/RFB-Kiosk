@@ -1,3 +1,9 @@
+<div align="center">
+<img src="public/brand/logo.svg" alt="Logo conceitual RFBKiosk" width="450"/>
+
+**Pedir em poucos toques**
+</div>
+
 # RFBKiosk — pedir em poucos toques
 
 > **Estado: planejamento e identidade conceitual.** Este repositório ainda não contém aplicativo funcional, QA ou deploy.
@@ -22,3 +28,9 @@ O Starter Pack e a especificação estão no RFB Method, `portfolio/projetos/10-
 ---
 
 **Projeto RFB Labs.** A logo do produto deve ser protagonista; a assinatura institucional RFB aparece apenas nos créditos.
+
+<div align="center">
+<img src="public/brand/assinatura-rfb.svg" alt="Assinatura institucional RFB" width="70"/>
+
+<sub>Uma criação RFB — marca institucional secundária.</sub>
+</div>
